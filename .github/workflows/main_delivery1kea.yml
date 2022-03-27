@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Delivery1kea'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F5066AA4F3B245DEA6E57BEB852B987F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E292FE614299435483139DF5EED68FB8 }}
